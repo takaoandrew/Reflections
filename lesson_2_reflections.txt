@@ -20,3 +20,8 @@ You could use them when you want your code to go in two separate directions, to 
 How do the diagrams help you visualize the branch structure?
 
 You can see what is reachable, and which file is a parent of another
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic is quicker, but may have conflicts.
