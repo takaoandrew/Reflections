@@ -21,3 +21,8 @@ You can work on a project remotely, and use git diff to see how they differ
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would have to send files through e-mail, and almost everything would be harder.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Doing the changes in master is a lot easier, but if you mess up, you ruin master, so it is not as safe.
