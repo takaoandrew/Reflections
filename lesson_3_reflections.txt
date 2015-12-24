@@ -16,3 +16,8 @@ A fork is a clone from Github to github with references. Clones go to your local
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can work on a project remotely, and use git diff to see how they differ
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would have to send files through e-mail, and almost everything would be harder.
